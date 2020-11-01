@@ -7,7 +7,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on - Stream Processing, ML and Text Analytics
-- 🌱 I’m currently learning - React.js
+- 🌱 I’m currently learning - On a few things 
 - 👯 I’m looking to collaborate on - Cloud, Big-Data, Web applications, Text Analytics and ML. 
 - 💬 Ask me about - Anything on Cloud, BigData, AI/ML, Programming, 
 - 📫 How to reach me: https://www.linkedin.com/in/ranganathananand/
