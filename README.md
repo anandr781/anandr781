@@ -4,8 +4,6 @@
 **anandr781/anandr781** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on - Stream Processing, ML and Text Analytics
 - 🌱 I’m currently learning - On a few things 
 - 👯 I’m looking to collaborate on - Cloud, Big-Data, Web applications, Text Analytics and ML. 
