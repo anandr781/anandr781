@@ -9,7 +9,6 @@
 - 👯 I’m looking to collaborate on - Cloud, Big-Data, Web applications, Text Analytics and ML. 
 - 💬 Ask me about - Anything on Cloud, BigData, AI/ML, Programming, 
 - 📫 How to reach me: https://www.linkedin.com/in/ranganathananand/
-- ⚡ Fun fact: I'm an artist . You give me a tuba I'll get you something out of it.
 
 ## Other Contributions : 
  Contributed configuration steps to the Official Xenserver Hypervisor (Xcp-ng edition) using CloudStack 4.12 with FreeNAS 11.x - https://xcp-ng.org/docs/cloud.html#cloudstack
