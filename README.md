@@ -1,4 +1,4 @@
-### Hi , I'm Anand Ranganathan . A seasoned full-stack developer, architect, manager and currently working as Sr.Director Engineering at Gartner . 👋
+### A seasoned full-stack developer, architect and manager . 👋
 
 <!--
 **anandr781/anandr781** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
