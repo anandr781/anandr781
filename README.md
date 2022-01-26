@@ -7,7 +7,7 @@
 - 🔭 I’m currently working on - Reactive Streams, ML and Text Analytics
 - 🌱 I’m currently learning - A few things 
 - 👯 I’m looking to collaborate on - Cloud, Big-Data, Web applications, Text Analytics and ML. 
-- 💬 Ask me about - Anything on Cloud, BigData, AI/ML, Programming, 
+- 💬 Ask me about - Anything on Cloud, BigData, AI/ML and Programming . 
 - 📫 How to reach me: https://www.linkedin.com/in/ranganathananand/
 
 ## Other Notable Contributions : 
