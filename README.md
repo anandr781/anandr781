@@ -9,6 +9,7 @@
 - 👯 I’m looking to collaborate on - Cloud, Big-Data, Web applications, Text Analytics and ML. 
 - 💬 Ask me about - Anything on Cloud, BigData, AI/ML and Programming . 
 - 📫 How to reach me: 
+
       * https://www.linkedin.com/in/ranganathananand/ 
       * https://medium.com/@anandr781
 
