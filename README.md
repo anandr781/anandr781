@@ -7,7 +7,7 @@
 - 🔭 I’m currently working on - Reactive Streams, ML and Text Analytics
 - 🌱 I’m currently learning - A few things 
 - 👯 I’m looking to collaborate on - Cloud, Big-Data, Web applications, Text Analytics and ML. 
-- 💬 Ask me about - Anything on Cloud, BigData, Batch/Stream Processing, AI/ML and Programming . 
+- 💬 Ask me about - Anything on Cloud, BigData, Batch/Stream Processing, AI/ML, Programming and Engineering Leadership . 
 
 
 ## Other Notable Contributions : 
